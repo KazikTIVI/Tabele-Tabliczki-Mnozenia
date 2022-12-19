@@ -1,4 +1,4 @@
-** Jak kożystać z strony **
+*** Jak kożystać z strony 
 
 1. Strona prosi o wpisanie kolumn i wierszy
 2. Tworzy się tabela która zawiera wyniki mnożenia (kolumna*wiersz)
