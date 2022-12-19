@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="oknaDialogowe.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>Tabele Tabliczki Mnożenia</h1>
+    <div class="counterMenu">
+        <button onclick="counter('-')"> &lt; </button>
+        <div><p id="counter">0</p></div>
+        <button onclick="counter('+')"> &gt; </button>
+    </div>
+    <div class="counterOperations">
+        <button onclick="changeArray(numArray[0],numArray[1],'+')">+</button>
+        <button onclick="changeArray(numArray[0],numArray[1],'-')">-</button>
+        <button onclick="changeArray(numArray[0],numArray[1],'*')">*</button>
+        <button onclick="changeArray(numArray[0],numArray[1],'/')">/</button>
+    </div>
+
+    <script src="oknaDialogowe.js"></script>
+</body>
+
+</html>
