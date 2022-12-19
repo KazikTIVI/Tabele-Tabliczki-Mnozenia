@@ -62,10 +62,6 @@ numArray = reqest2Numbers()
 mainArray = createArray(numArray[0],numArray[1])
 printArray(numArray[0],numArray[1],mainArray)
 
-console.log(mainArray)
-console.log(mainArray[1])
-console.log(mainArray[1][1])
-
 
 let counterNumber = 0
 const counter = (symbol) => { // funkcja zieniająca 
