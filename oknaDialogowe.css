@@ -7,6 +7,12 @@ body {
     background-color: darkslategray;
     color: white;
     text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 100;
+    text-align: center;
 }
 
 /* ====================== */
@@ -33,6 +39,7 @@ td {
     text-align: center;
     background-color: rgb(18,86,94);
     overflow: auto;
+    padding: 0.5rem;
 }
 
 td:hover {
@@ -99,5 +106,26 @@ table td:nth-child(1):hover {
 
 button {
     cursor: pointer;
-    background-color: aquamarine;
+    background-color: rgb(181, 255, 230);
+    border: none;
+    transition: .2s;
+}
+
+button:hover {
+    box-shadow: 0 0 1rem rgb(181, 255, 230);
+    transition: .2s;
+}
+
+.flex > span {
+    display: block;
+    background-color: black;
+    width: 80%;
+    height: 2px;
+}
+
+.flex {
+    padding-top: 0.5rem;
+    width: auto;
+    display: flex;
+    justify-content: center;
 }
