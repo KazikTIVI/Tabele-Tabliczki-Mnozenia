@@ -1,6 +1,6 @@
 *** Jak kożystać z strony ***
 
-[Główna strona](https://kaziktivi.github.io/Tabele-Tabliczki-Mnozenia/oknaDialogowe.html)
+[Żeby przejść do głównej strony kliknij tutaj](https://kaziktivi.github.io/Tabele-Tabliczki-Mnozenia/oknaDialogowe.html)
 
 
 
