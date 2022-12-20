@@ -1,9 +1,8 @@
 *** Jak kożystać z strony ***
 
-Główna strona:
-https://kaziktivi.github.io/Tabele-Tabliczki-Mnozenia/oknaDialogowe.html
-/oknaDialogowe.html
-(/oknaDialogowe.html)
+[Główna strona](https://kaziktivi.github.io/Tabele-Tabliczki-Mnozenia/oknaDialogowe.html)
+
+
 
 1. Strona prosi o wpisanie kolumn i wierszy
 2. Tworzy się tabela która zawiera wyniki mnożenia (kolumna*wiersz)
