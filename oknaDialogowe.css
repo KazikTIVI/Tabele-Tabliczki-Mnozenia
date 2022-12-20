@@ -90,7 +90,14 @@ table td:nth-child(1):hover {
 }
 
 .counterOperations button {
-    font-size: 3rem;
+    font-size: 3rem;    
     width: 3.5rem;
     height: 3.5rem;
+}
+
+/* ====================== */
+
+button {
+    cursor: pointer;
+    background-color: aquamarine;
 }
